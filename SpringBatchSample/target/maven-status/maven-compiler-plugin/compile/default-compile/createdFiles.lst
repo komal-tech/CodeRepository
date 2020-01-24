@@ -1,0 +1,4 @@
+com\evolvus\SpringBatch\PersonMapper.class
+com\evolvus\SpringBatch\MyTasklet.class
+com\evolvus\SpringBatch\App.class
+com\evolvus\SpringBatch\Model\Person.class
